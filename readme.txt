@@ -1,5 +1,2 @@
-aaaaaaaaa
-cccccccccccccc
-aaaaaa
-bbbb
+this is made's first project!
 
