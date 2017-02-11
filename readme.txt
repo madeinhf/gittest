@@ -1,3 +1,3 @@
-this is made's first project ! && a
+this is made's first project!
 
 
